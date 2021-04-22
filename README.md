@@ -30,8 +30,5 @@ Repeat this process the month of December, then we have the information we need:
 - The 3 percentiles of data for both months is roughly the same, which further clarifies that even the averages of averages produce relevant/consistent information
 
 # Summary
-<<<<<<< HEAD
 We can summarize that Oahu is a great destination for people to be in terms of temperature in a Tropical region of the world. However with the information we have access to it would be worth querying more data to further our analysis. This can be done by running similar code on humidity, as this is a factor to consider with tourism. Another potential analysis is to bin the temperatre data by time of day, and extract such info by certain days of a month, to see if there are any fluctations/key periods of temperature change, and to further justify the accuracy f the data previously collected.
-=======
-We can summarize that Oahu is a great destination for people to be in terms of temperature in a Tropical region of the world. However with the information we have access to it would be worth querying more data to further our analysis. This can be done by running similar code on humidity, as this is a factor to consider with tourism. Another potential analysis is to bin the temperatre data by time of day, and extract such info by certain days of a month, to see if there are any fluctations/key periods of temperature change, and to further justify the accuracy f the data previously collected.
->>>>>>> 7cc7e3e843c46e8cb8529bd4742256398a537ab8
+
