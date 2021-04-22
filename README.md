@@ -19,7 +19,7 @@ for d in june_temps:
     print(values)
     june_temps_list.append(values)
 ```
-Repeat this process the month of December, then we have the information necessary to generate the statistics and compare the two months:
+Repeat this process the month of December, then we have the information we need:
 ![image](https://user-images.githubusercontent.com/79726572/115754092-df689a00-a369-11eb-8776-71d6125d371d.png)
 ![image](https://user-images.githubusercontent.com/79726572/115754129-e7283e80-a369-11eb-95f4-e7e0af661eae.png)
 
